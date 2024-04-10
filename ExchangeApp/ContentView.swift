@@ -20,6 +20,7 @@ struct ContentView: View {
                     Label("Exchange", systemImage: "dollarsign.arrow.circlepath")
                 }
         }
+        .tint(.purple)
     }
 }
 
